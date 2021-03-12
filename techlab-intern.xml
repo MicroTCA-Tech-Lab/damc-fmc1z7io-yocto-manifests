@@ -23,6 +23,6 @@
   <project remote="xilinx"  revision="rel-v2020.2"      name="meta-jupyter"             path="sources/meta-jupyter"/>
   <project remote="xilinx"  revision="rel-v2020.2"      name="meta-vitis-ai"            path="sources/meta-vitis-ai"/>
 
-  <project remote="msktechvcs"  revision="v2020.2"          name="meta-damc-fmc1z7io"       path="sources/meta-damc-fmc1z7io"/>
+  <project remote="msktechvcs"  revision="rel-v2020.2"          name="meta-damc-fmc1z7io"       path="sources/meta-damc-fmc1z7io"/>
 
 </manifest>
