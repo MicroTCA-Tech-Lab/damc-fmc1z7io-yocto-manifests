@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="xilinx"  fetch="git://github.com/xilinx"/>
+  <remote name="xilinx"  fetch="https://github.com/xilinx"/>
   <remote name="msktechvcs"  fetch="ssh://git@msktechvcs.desy.de/techlab/damc-fmc1z7io/software/"/>
   <remote name="msktechvcs-sw"  fetch="ssh://git@msktechvcs.desy.de/techlab/software/yocto-layers/"/>
 
